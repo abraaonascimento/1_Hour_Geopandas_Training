@@ -12,4 +12,4 @@ Geopandas is one of the most powerful ways to work with geospatial data currentl
     5. Mention 
 
 ### Link to virtual enviroment to test and run the code
-* `https://mybinder.org/v2/gh/abraaonascimento/1_Hour_Geopandas_Training/HEAD` - After the set up click in 1_hour_geopandas_training.ipynb to open the notebook.
+* [1 hour Geopandas Training](https://mybinder.org/v2/gh/abraaonascimento/1_Hour_Geopandas_Training/HEAD)` - After the set up, click in 1_hour_geopandas_training.ipynb to open the notebook.
