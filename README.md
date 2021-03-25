@@ -8,7 +8,7 @@ Geopandas is one of the most powerful ways to work with geospatial data currentl
     1. Set up environment
     2. Read geospatial data
     3. Plot, manipulate and execute geospatial operations
-    4. Salve your geospatial data
+    4. Save your geospatial data
     5. Mention 
 
 ### Link to virtual enviroment to test and run the code
