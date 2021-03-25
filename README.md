@@ -10,3 +10,6 @@ Geopandas is one of the most powerful ways to work with geospatial data currentl
     3. Plot, manipulate and execute geospatial operations
     4. Salve your geospatial data
     5. Mention 
+
+### Link to virtual enviroment to test and run the code
+* `https://mybinder.org/v2/gh/abraaonascimento/1_Hour_Geopandas_Training/HEAD` - After the set up click in 1_hour_geopandas_training.ipynb to open the notebook.
