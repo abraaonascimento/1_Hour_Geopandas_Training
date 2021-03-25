@@ -1,5 +1,3 @@
-# POI Categorizer
-
 ![](geo.png)
 
 ## Why Geopandas?
